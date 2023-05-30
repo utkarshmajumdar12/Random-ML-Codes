@@ -18,8 +18,8 @@ from email.parser import BytesParser
 # Email account settings
 SMTP_HOST = 'smtp.zoho.in'
 SMTP_PORT = 465
-SMTP_USERNAME = 'utkarshintern@zohomail.in'
-SMTP_PASSWORD = 'Pass@123123'
+SMTP_USERNAME = ''
+SMTP_PASSWORD = ''
 
 # Autoresponder settings
 AUTO_RESPONDER_MESSAGE = "Thank you for your email. I am currently on vacation and will reply to your message when I return."
